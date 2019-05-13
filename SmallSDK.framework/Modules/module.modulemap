@@ -1,0 +1,6 @@
+framework module SmallSDK {
+  umbrella header "SmallSDK.h"
+
+  export *
+  module * { export * }
+}
