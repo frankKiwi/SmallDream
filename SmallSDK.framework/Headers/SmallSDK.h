@@ -16,5 +16,6 @@ FOUNDATION_EXPORT const unsigned char SmallSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <SmallSDK/PublicHeader.h>
 
+#import <SmallSDK/DreamViewer.h>
 #import <SmallSDK/Dreamweaver.h>
 

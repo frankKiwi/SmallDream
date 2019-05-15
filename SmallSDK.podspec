@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "SmallSDK"
-  s.version      = "0.0.5"
+  s.version      = "0.0.6"
   s.summary      = "简介 SmallSDK."
 
   s.homepage     = "https://github.com/frankKiwi/SmallDream.git"
